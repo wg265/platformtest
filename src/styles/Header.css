@@ -1,0 +1,25 @@
+#u2160_img {
+    border-width:0px;
+    left:0px;
+    top:0px;
+    width:36px;
+    height:33px;
+}
+#u2166_img {
+    border-width:0px;
+    left:0px;
+    top:0px;
+    width:48px;
+    height:24px;
+}
+.header_menu {
+    width : calc(100% + 100px);
+    font-size: 16px;
+}
+.header{
+    position : relative;
+    width:100%;
+    left : 0;
+    top : 0;
+    height: 100%;
+}

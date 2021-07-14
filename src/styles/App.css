@@ -1,5 +1,9 @@
+@import '~antd/dist/antd.css';
+@import './Header.css';
+@import './Footer.css';
+@import './Zuzhijigou/Zuzhijigou.css';
+@import './Shouye/Shouye.css';
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -26,6 +30,14 @@
 
 .App-link {
   color: #61dafb;
+}
+.mid {
+  position: relative;
+  height : 100%;
+}
+.footer {
+  position: relative;
+  bottom : 0;
 }
 
 @keyframes App-logo-spin {

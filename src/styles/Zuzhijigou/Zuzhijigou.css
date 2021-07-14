@@ -1,0 +1,40 @@
+.zuzhijigou_leftside {
+    height: 100%;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width:330px;
+    text-align: center;
+}
+.zuzhijigou_rightside{
+    position: relative;
+    margin-left: 330px;
+    padding-left : 10px;
+    padding-right : 10px;
+}
+.zuzhijigou{
+    height: 100%;
+}
+.zuzhijigou_search{
+    width : 300px;
+    float : right;
+    margin-right : 10px;
+    height : 36px;
+    margin-top: 4px;
+}
+.zuzhijigou_searchbar {
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid #282c34;
+}
+.Zuzhijigou_searchbutton {
+    width : 100px;
+    height: 34px;
+    float : right;
+    margin-top: 7px;
+    margin-right: 20px;
+    text-align: center;
+}
+.zuzhijigou_down {
+    height: 688px;
+}
